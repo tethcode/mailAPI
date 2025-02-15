@@ -42,7 +42,7 @@ EMAIL_PORT = 465  # Use SSL
 EMAIL_USE_SSL = True  # Enable SSL
 EMAIL_USE_TLS = False  # Disable TLS (since we're using SSL)
 EMAIL_HOST_USER = "tethcode@gmail.com"
-EMAIL_HOST_PASSWORD = "ubdw rnzy pzjt rhry"
+EMAIL_HOST_PASSWORD = "YOUR_GOOGLE_APP_PASSWORD"
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER  # Set default sender email
 
 ALLOWED_HOSTS = []
